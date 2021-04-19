@@ -17,7 +17,7 @@ fn main(){
     let mut count : i32 = 0;
     while i<max {
         if is_prime(i) {
-            count += 1;to
+            count += 1;
         }
         i +=1 ;
     }
